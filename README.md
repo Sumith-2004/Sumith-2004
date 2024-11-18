@@ -23,10 +23,10 @@ Welcome to my profile! I'm a **BE Electronics and Communication Engineering** st
 
 ## 💻 Technical Skills
 
-- **Programming**: Python, Flask
-- **Frameworks**: Frappe
-- **Database Management**: MariaDB
-- **Other Tools**: Java (Selenium and Framework)
+- **Programming**: Python
+- **Frameworks**: Frappe, Flask, Django
+- **Database Management**: MariaDB, SQL
+- **Other Tools**: Java (Selenium)
 
 ---
 
